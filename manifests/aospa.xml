@@ -85,12 +85,11 @@
   <remove-project name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/MusicFX" name="AOSPA/android_packages_apps_MusicFX" remote="aospa" groups="aospa" />
   <remove-project name="platform/packages/apps/SoundRecorder" />
-  <project path="packages/apps/SoundRecorder" name="AOSPA/android_packages_apps_SoundRecorder" remote="aospa" groups="aospa" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/PackageInstaller" name="AOSPA/android_packages_apps_PackageInstaller" remote="aospa" groups="aospa" />
   <project path="packages/apps/ParanoidCamera" name="AOSPA/android_packages_apps_ParanoidCamera" remote="aospa" groups="aospa" />
   <project path="packages/apps/ParanoidHub" name="AOSPA/android_packages_apps_ParanoidHub" remote="aospa" groups="aospa" />
-  <project path="packages/apps/ParanoidPapers" name="AOSPA/android_packages_apps_ParanoidPapers" remote="aospa" groups="aospa" />
+  <project path="packages/apps/ParanoidPapers" name="RadekBled/android_packages_apps_ParanoidPapers" remote="aospa" groups="aospa" />
   <remove-project name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/PhoneCommon" name="AOSPA/android_packages_apps_PhoneCommon" remote="aospa" groups="aospa" />
   <remove-project name="platform/packages/apps/Settings" />
